@@ -1,4 +1,4 @@
-[![progress-banner](https://backend.codecrafters.io/progress/shell/57f64b76-a431-40f2-8fab-935c86fa0cd1)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
+[![progress-banner](https://backend.codecrafters.io/progress/shell/57f64b76-a431-40f2-8fab-935c86fa0cd1)](https://app.codecrafters.io/users/danilogalisteu)
 
 This is a starting point for Python solutions to the
 ["Build Your Own Shell" Challenge](https://app.codecrafters.io/courses/shell/overview).
